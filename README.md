@@ -42,7 +42,7 @@ I am an enthusiastic Full-Stack Developer passionate about innovative technologi
 
 ## 💻 Projects
 
-### [CraftedNest]()
+### [Turtle_race](https://github.com/KushagraKumar-r/Turtle_race)
 An online marketplace that connects local artisans with customers seeking unique, handcrafted goods. the platform provides a seamless, fast, and responsive experience, empowering artisans to showcase and sell their creations.
 - **Technologies Used:** Node.js, Express.js, MongoDB, Next.js, Tailwind CSS
   

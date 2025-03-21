@@ -58,8 +58,8 @@ An interactive study tool that allows users to review and memorize information w
 ---
 
 ## 🏆 Achievements
-- Solved **500+ coding questions** on LeetCode (Java). [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/muskan_gupta67/)
-- **5-star ratings** in Problem-Solving and Java on HackerRank. [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)]()
+- Solved **300+ coding questions** on LeetCode (Java). [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/muskan_gupta67/)
+- **3-star ratings** in Problem-Solving and Java on HackerRank. [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)]()
 
 
 ---

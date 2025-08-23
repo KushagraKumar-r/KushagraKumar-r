@@ -1,6 +1,6 @@
 # Hello, I'm Kushagra Kumar! 👋
 
-I am an enthusiastic Full-Stack Developer passionate about innovative technologies and solving real-world problems through impactful projects.
+I am an enthusiastic Data Scientist passionate about innovative technologies and solving real-world problems through impactful projects.
 
 ---
 
@@ -8,7 +8,7 @@ I am an enthusiastic Full-Stack Developer passionate about innovative technologi
 - **🎓 Education:** Bachelor of Technology (CSE), Pranveer Singh Institute of Technology (2022 - 2026) | CGPA: 7.3/10 (Till 5th Semester)
 - **📍 Location:** Kanpur, Uttar Pradesh
 - **👋 Contact:** [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2k22.csai.2213257@gmail.com)
-- **🌱 Currently Learning**: Advanced backend architectures and optimizing database performance.  
+- **🌱 Currently Learning**: Advanced machine learning algorithms.  
 - **🔍 Looking for**: Exciting **internship opportunities** in software development.  
 - **💡 Fun Fact**: I have won multiple **drama, and debate competitions**!  
 ---
